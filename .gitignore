@@ -1,1 +1,7 @@
+.DS_STORE
 python-twitter/examples/.tweetrc
+python-twitter/simplejson
+python-twitter/build/*
+python-twitter/dist/*
+python-twitter/python_twitter.egg-info/*
+mysite/test.db
